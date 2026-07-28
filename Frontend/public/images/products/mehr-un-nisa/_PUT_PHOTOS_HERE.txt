@@ -1,0 +1,12 @@
+Mehr-un-Nisa  (luxury-formals)
+----------------------------------------
+Paste this product's photos in THIS folder, named:
+
+   1.jpg   <- main photo (shown on cards + first in gallery)
+   2.jpg   <- extra angle (optional)
+   3.jpg   <- extra angle (optional)
+   4.jpg   <- extra angle (optional)
+
+Just drop the files in and refresh — they appear automatically,
+no code editing needed. Missing numbers are simply skipped.
+Use .jpg files. Portrait ~1000x1333 looks best.

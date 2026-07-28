@@ -1,0 +1,1147 @@
+[
+  {
+    "id": "demo-1",
+    "handle": "gulbahar",
+    "title": "Gulbahar",
+    "collection": "formals",
+    "collections": [
+      "formals",
+      "new-arrivals"
+    ],
+    "price": 38950,
+    "compareAt": null,
+    "images": [
+      "/images/products/gulbahar/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "new",
+      "express"
+    ],
+    "soldOut": false,
+    "description": "Hand-embellished organza shirt with resham jaal, paired with a sequinned dupatta and raw-silk trousers.",
+    "fabric": "Organza · Raw silk",
+    "createdAt": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "demo-2",
+    "handle": "mahjabeen",
+    "title": "Mahjabeen",
+    "collection": "formals",
+    "collections": [
+      "formals",
+      "best-sellers"
+    ],
+    "price": 34500,
+    "compareAt": null,
+    "images": [
+      "/images/products/mahjabeen/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "soldOut": false,
+    "description": "Chiffon angrakha with antique-gold tilla work and a scalloped hem, finished with a mukesh dupatta.",
+    "fabric": "Chiffon",
+    "createdAt": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "id": "demo-3",
+    "handle": "nooraniyat",
+    "title": "Nooraniyat",
+    "collection": "formals",
+    "collections": [
+      "formals",
+      "new-arrivals"
+    ],
+    "price": 36950,
+    "compareAt": null,
+    "images": [
+      "/images/products/nooraniyat/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "new"
+    ],
+    "soldOut": false,
+    "description": "Ivory net ensemble with pearl detailing and delicate kora embroidery along the neckline.",
+    "fabric": "Net · Grip silk",
+    "createdAt": "2026-06-28T00:00:00.000Z"
+  },
+  {
+    "id": "demo-4",
+    "handle": "dilnasheen",
+    "title": "Dilnasheen",
+    "collection": "formals",
+    "collections": [
+      "formals",
+      "sale"
+    ],
+    "price": 29950,
+    "compareAt": 35950,
+    "images": [
+      "/images/products/dilnasheen/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "express"
+    ],
+    "soldOut": false,
+    "description": "Deep emerald shirt with mirror-work motifs, plain shalwar and a contrast organza dupatta.",
+    "fabric": "Khaadi net",
+    "createdAt": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "id": "demo-5",
+    "handle": "zarnigar",
+    "title": "Zarnigar",
+    "collection": "formals",
+    "collections": [
+      "formals",
+      "best-sellers"
+    ],
+    "price": 39950,
+    "compareAt": null,
+    "images": [
+      "/images/products/zarnigar/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "soldOut": false,
+    "description": "Fully hand-worked front with zardozi and dabka, teamed with an embroidered-border dupatta.",
+    "fabric": "Organza",
+    "createdAt": "2026-06-21T00:00:00.000Z"
+  },
+  {
+    "id": "demo-6",
+    "handle": "shabnam",
+    "title": "Shabnam",
+    "collection": "formals",
+    "collections": [
+      "formals"
+    ],
+    "price": 28500,
+    "compareAt": null,
+    "images": [
+      "/images/products/shabnam/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [],
+    "soldOut": false,
+    "description": "Powder-blue crinkle chiffon with silver gota lines and a matching gharara.",
+    "fabric": "Crinkle chiffon",
+    "createdAt": "2026-06-14T00:00:00.000Z"
+  },
+  {
+    "id": "demo-7",
+    "handle": "sheesh-mahal",
+    "title": "Sheesh Mahal",
+    "collection": "luxury-formals",
+    "collections": [
+      "luxury-formals",
+      "new-arrivals"
+    ],
+    "price": 74500,
+    "compareAt": null,
+    "images": [
+      "/images/products/sheesh-mahal/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "new"
+    ],
+    "soldOut": false,
+    "description": "Couture-grade mirror and dabka work over pure organza — over 400 hours of handwork.",
+    "fabric": "Pure organza",
+    "createdAt": "2026-06-27T00:00:00.000Z"
+  },
+  {
+    "id": "demo-8",
+    "handle": "noor-e-jahan",
+    "title": "Noor-e-Jahan",
+    "collection": "luxury-formals",
+    "collections": [
+      "luxury-formals",
+      "best-sellers"
+    ],
+    "price": 68000,
+    "compareAt": null,
+    "images": [
+      "/images/products/noor-e-jahan/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "soldOut": false,
+    "description": "Regal maroon raw silk with full zardozi front, heavy borders and a four-sided worked dupatta.",
+    "fabric": "Raw silk",
+    "createdAt": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "id": "demo-9",
+    "handle": "taj-posh",
+    "title": "Taj Posh",
+    "collection": "luxury-formals",
+    "collections": [
+      "luxury-formals"
+    ],
+    "price": 59500,
+    "compareAt": null,
+    "images": [
+      "/images/products/taj-posh/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [],
+    "soldOut": false,
+    "description": "Champagne tissue ensemble with antique sitara spray and hand-finished scallops.",
+    "fabric": "Tissue",
+    "createdAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "demo-10",
+    "handle": "mehr-un-nisa",
+    "title": "Mehr-un-Nisa",
+    "collection": "luxury-formals",
+    "collections": [
+      "luxury-formals",
+      "sale"
+    ],
+    "price": 47500,
+    "compareAt": 55000,
+    "images": [
+      "/images/products/mehr-un-nisa/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [],
+    "soldOut": false,
+    "description": "Blush pink net with 3D floral appliqué, pearl strings and a farshi-style trouser.",
+    "fabric": "Net",
+    "createdAt": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "id": "demo-11",
+    "handle": "feroza",
+    "title": "Feroza",
+    "collection": "silk-pret",
+    "collections": [
+      "silk-pret",
+      "new-arrivals"
+    ],
+    "price": 18950,
+    "compareAt": null,
+    "images": [
+      "/images/products/feroza/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "new"
+    ],
+    "soldOut": false,
+    "description": "Turquoise pure-silk kurta with a hand-blocked border and side slits, ready to wear.",
+    "fabric": "Pure silk",
+    "createdAt": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "id": "demo-12",
+    "handle": "raat-ki-rani",
+    "title": "Raat ki Rani",
+    "collection": "silk-pret",
+    "collections": [
+      "silk-pret",
+      "best-sellers"
+    ],
+    "price": 21500,
+    "compareAt": null,
+    "images": [
+      "/images/products/raat-ki-rani/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "bestseller",
+      "express"
+    ],
+    "soldOut": false,
+    "description": "Midnight silk co-ord kurta with tone-on-tone embroidery — our quiet best seller.",
+    "fabric": "Charmeuse silk",
+    "createdAt": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "id": "demo-13",
+    "handle": "kundan",
+    "title": "Kundan",
+    "collection": "silk-pret",
+    "collections": [
+      "silk-pret",
+      "sale"
+    ],
+    "price": 16950,
+    "compareAt": 19950,
+    "images": [
+      "/images/products/kundan/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [],
+    "soldOut": false,
+    "description": "Rust silk kurta with kundan buttons and a straight-cut trouser.",
+    "fabric": "Raw silk blend",
+    "createdAt": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "id": "demo-14",
+    "handle": "chandni-raat",
+    "title": "Chandni Raat",
+    "collection": "formal-pret",
+    "collections": [
+      "formal-pret",
+      "sale",
+      "best-sellers"
+    ],
+    "price": 15950,
+    "compareAt": 21500,
+    "images": [
+      "/images/products/chandni-raat/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "bestseller",
+      "express"
+    ],
+    "soldOut": false,
+    "description": "Silver-grey embroidered pret with mukesh sprinkle, fully lined and finished.",
+    "fabric": "Chiffon · Lined",
+    "createdAt": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "demo-15",
+    "handle": "gul-e-rana",
+    "title": "Gul-e-Rana",
+    "collection": "formal-pret",
+    "collections": [
+      "formal-pret",
+      "sale"
+    ],
+    "price": 13950,
+    "compareAt": 17950,
+    "images": [
+      "/images/products/gul-e-rana/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "express"
+    ],
+    "soldOut": false,
+    "description": "Tea-rose shirt with floral resham embroidery and pearl cuff detail.",
+    "fabric": "Grip",
+    "createdAt": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "id": "demo-16",
+    "handle": "sitara-begum",
+    "title": "Sitara Begum",
+    "collection": "formal-pret",
+    "collections": [
+      "formal-pret",
+      "sale"
+    ],
+    "price": 14950,
+    "compareAt": 18500,
+    "images": [
+      "/images/products/sitara-begum/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [],
+    "soldOut": false,
+    "description": "Black pret with scattered sitara work — the reliable dinner-party answer.",
+    "fabric": "Georgette",
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "demo-17",
+    "handle": "anaar-kali",
+    "title": "Anaar Kali",
+    "collection": "formal-pret",
+    "collections": [
+      "formal-pret",
+      "new-arrivals"
+    ],
+    "price": 17500,
+    "compareAt": null,
+    "images": [
+      "/images/products/anaar-kali/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "new"
+    ],
+    "soldOut": false,
+    "description": "Pomegranate-red frock-style pret with churidar and a light net dupatta.",
+    "fabric": "Net · Silk lining",
+    "createdAt": "2026-06-28T00:00:00.000Z"
+  },
+  {
+    "id": "demo-18",
+    "handle": "sitara",
+    "title": "Sitara",
+    "collection": "lawn-pret",
+    "collections": [
+      "lawn-pret",
+      "best-sellers"
+    ],
+    "price": 8950,
+    "compareAt": null,
+    "images": [
+      "/images/products/sitara/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "bestseller",
+      "express"
+    ],
+    "soldOut": false,
+    "description": "Everyday printed lawn two-piece with embroidered neckline, pre-stitched and breezy.",
+    "fabric": "Premium lawn",
+    "createdAt": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "demo-19",
+    "handle": "bahaar",
+    "title": "Bahaar",
+    "collection": "lawn-pret",
+    "collections": [
+      "lawn-pret",
+      "sale"
+    ],
+    "price": 7990,
+    "compareAt": 9990,
+    "images": [
+      "/images/products/bahaar/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "express"
+    ],
+    "soldOut": false,
+    "description": "Spring-print lawn kurta with lace inserts — soft, washed and ready to wear.",
+    "fabric": "Lawn",
+    "createdAt": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "id": "demo-20",
+    "handle": "dhoop-chaaon",
+    "title": "Dhoop Chaaon",
+    "collection": "lawn-pret",
+    "collections": [
+      "lawn-pret",
+      "new-arrivals"
+    ],
+    "price": 9990,
+    "compareAt": null,
+    "images": [
+      "/images/products/dhoop-chaaon/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "new"
+    ],
+    "soldOut": false,
+    "description": "Two-tone lawn co-ord with chikankari-style embroidery on the sleeves.",
+    "fabric": "Lawn",
+    "createdAt": "2026-06-27T00:00:00.000Z"
+  },
+  {
+    "id": "demo-21",
+    "handle": "champa",
+    "title": "Champa",
+    "collection": "unstitched-lawn",
+    "collections": [
+      "unstitched-lawn"
+    ],
+    "price": 4450,
+    "compareAt": null,
+    "images": [
+      "/images/products/champa/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "Unstitched",
+        "available": true
+      }
+    ],
+    "tags": [
+      "express"
+    ],
+    "soldOut": false,
+    "description": "Three-piece unstitched lawn: printed shirt, dyed trouser and a voile dupatta.",
+    "fabric": "Lawn · Voile",
+    "createdAt": "2026-06-20T00:00:00.000Z"
+  },
+  {
+    "id": "demo-22",
+    "handle": "genda-phool",
+    "title": "Genda Phool",
+    "collection": "unstitched-lawn",
+    "collections": [
+      "unstitched-lawn",
+      "sale"
+    ],
+    "price": 4450,
+    "compareAt": 5950,
+    "images": [
+      "/images/products/genda-phool/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "Unstitched",
+        "available": true
+      }
+    ],
+    "tags": [],
+    "soldOut": false,
+    "description": "Marigold print with an embroidered front panel — tailor it your way.",
+    "fabric": "Lawn",
+    "createdAt": "2026-06-13T00:00:00.000Z"
+  },
+  {
+    "id": "demo-23",
+    "handle": "neelam",
+    "title": "Neelam",
+    "collection": "unstitched-lawn",
+    "collections": [
+      "unstitched-lawn",
+      "new-arrivals"
+    ],
+    "price": 4450,
+    "compareAt": null,
+    "images": [
+      "/images/products/neelam/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "Unstitched",
+        "available": true
+      }
+    ],
+    "tags": [
+      "new"
+    ],
+    "soldOut": false,
+    "description": "Sapphire-blue signature print with a jacquard dupatta.",
+    "fabric": "Lawn · Jacquard",
+    "createdAt": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "id": "demo-24",
+    "handle": "subh-o-shaam",
+    "title": "Subh-o-Shaam",
+    "collection": "co-ords",
+    "collections": [
+      "co-ords",
+      "new-arrivals"
+    ],
+    "price": 12950,
+    "compareAt": null,
+    "images": [
+      "/images/products/subh-o-shaam/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [
+      "new"
+    ],
+    "soldOut": false,
+    "description": "Relaxed linen-blend co-ord set in oat — from morning chai to evening plans.",
+    "fabric": "Linen blend",
+    "createdAt": "2026-06-24T00:00:00.000Z"
+  },
+  {
+    "id": "demo-25",
+    "handle": "reshmi",
+    "title": "Reshmi",
+    "collection": "co-ords",
+    "collections": [
+      "co-ords"
+    ],
+    "price": 14500,
+    "compareAt": null,
+    "images": [
+      "/images/products/reshmi/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "XS",
+        "available": true
+      },
+      {
+        "size": "S",
+        "available": true
+      },
+      {
+        "size": "M",
+        "available": true
+      },
+      {
+        "size": "L",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "available": true
+      }
+    ],
+    "tags": [],
+    "soldOut": false,
+    "description": "Satin co-ord with a boxy shirt and wide trouser, quietly polished.",
+    "fabric": "Satin",
+    "createdAt": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "id": "demo-26",
+    "handle": "mehr-e-taban",
+    "title": "Mehr-e-Taban",
+    "collection": "bridal",
+    "collections": [
+      "bridal",
+      "best-sellers"
+    ],
+    "price": 285000,
+    "compareAt": null,
+    "images": [
+      "/images/products/mehr-e-taban/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "Made to order",
+        "available": true
+      }
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "soldOut": false,
+    "description": "Deep-red bridal lehnga with full zardozi, dabka and kora handwork — made to order over 8–10 weeks.",
+    "fabric": "Raw silk · Organza",
+    "createdAt": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "id": "demo-27",
+    "handle": "shahzadi",
+    "title": "Shahzadi",
+    "collection": "bridal",
+    "collections": [
+      "bridal"
+    ],
+    "price": 398000,
+    "compareAt": null,
+    "images": [
+      "/images/products/shahzadi/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "Made to order",
+        "available": true
+      }
+    ],
+    "tags": [],
+    "soldOut": false,
+    "description": "Heirloom-grade walima ensemble in ivory-gold tissue with hand-set pearls.",
+    "fabric": "Tissue · Pure organza",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "demo-28",
+    "handle": "rani-haar",
+    "title": "Rani Haar",
+    "collection": "bridal",
+    "collections": [
+      "bridal",
+      "new-arrivals"
+    ],
+    "price": 175000,
+    "compareAt": null,
+    "images": [
+      "/images/products/rani-haar/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "Made to order",
+        "available": true
+      }
+    ],
+    "tags": [
+      "new"
+    ],
+    "soldOut": false,
+    "description": "Mehndi-day gharara in sunshine gota work with a heavily finished dupatta.",
+    "fabric": "Kamkhaab · Net",
+    "createdAt": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "id": "demo-29",
+    "handle": "noor-mahal",
+    "title": "Noor Mahal",
+    "collection": "bridal",
+    "collections": [
+      "bridal"
+    ],
+    "price": 325000,
+    "compareAt": null,
+    "images": [
+      "/images/products/noor-mahal/1.jpg"
+    ],
+    "variants": [
+      {
+        "size": "Made to order",
+        "available": false
+      }
+    ],
+    "tags": [],
+    "soldOut": true,
+    "description": "Blush-and-gold bridal with cascading floral zardozi — currently reserved.",
+    "fabric": "Organza",
+    "createdAt": "2026-06-07T00:00:00.000Z"
+  }
+]
