@@ -1,0 +1,33 @@
+services:
+  - type: web
+    runtime: node
+    name: mahru-backend
+    plan: free
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    autoDeployTrigger: commit
+    envVars:
+      - key: NODE_VERSION
+        value: "20.11.1"
+      - key: ADMIN_KEY
+        generateValue: true
+
+  - type: web
+    runtime: static
+    name: mahru-frontend
+    rootDir: Frontend
+    buildCommand: npm install && VITE_API_URL="https://$BACKEND_HOST" npm run build
+    staticPublishPath: dist
+    autoDeployTrigger: commit
+    envVars:
+      - key: BACKEND_HOST
+        fromService:
+          name: mahru-backend
+          type: web
+          envVarKey: RENDER_EXTERNAL_HOSTNAME
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
