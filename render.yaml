@@ -18,10 +18,14 @@ services:
     runtime: static
     name: mahru-frontend
     rootDir: Frontend
-    buildCommand: npm install && VITE_API_URL="https://$BACKEND_HOST" npm run build
+    buildCommand: npm install --include=dev && VITE_API_URL="https://$BACKEND_HOST" npm run build
     staticPublishPath: dist
     autoDeployTrigger: commit
     envVars:
+      - key: NODE_VERSION
+        value: "20.11.1"
+      - key: NPM_CONFIG_PRODUCTION
+        value: "false"
       - key: BACKEND_HOST
         fromService:
           name: mahru-backend
