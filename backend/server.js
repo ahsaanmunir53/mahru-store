@@ -41,7 +41,7 @@ function P(handle, title, collection, price, compareAt, description, tags = [], 
         soldOut: !!opts.soldOut,
         description,
         fabric: opts.fabric || null,
-        createdAt: day(opts.age ? ? seq),
+        createdAt: day(opts.age ?? seq),
     };
 }
 
