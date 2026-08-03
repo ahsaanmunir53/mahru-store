@@ -122,7 +122,7 @@ const FLAT_SHIP = 350;
 
 app.post('/api/orders', (req, res) => {
     const { customer, paymentMethod, items } = req.body || {};
-    if (!customer ? .name ? .trim() || !customer ? .phone ? .trim() || !customer ? .address ? .trim() || !customer ? .city ? .trim())
+    if (!customer?.name?.trim() || !customer?.phone?.trim() || !customer?.address?.trim() || !customer?.city?.trim())
         return res.status(400).json({ error: 'Name, phone, address and city are required.' });
     if (!['COD', 'Bank Transfer'].includes(paymentMethod))
         return res.status(400).json({ error: 'Please choose a payment method.' });
@@ -172,7 +172,7 @@ app.get('/api/orders', (req, res) => {
 });
 
 app.post('/api/newsletter', (req, res) => {
-    const email = String(req.body ? .email || '').trim().toLowerCase();
+    const email = String(req.body?.email || '').trim().toLowerCase();
     if (!/^\S+@\S+\.\S+$/.test(email)) return res.status(400).json({ error: 'Enter a valid email address.' });
     const list = readJson('newsletter', []);
     if (!list.some((x) => x.email === email)) {
